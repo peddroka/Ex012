@@ -4,3 +4,6 @@ h1 {
 p {
   text-align: center;
 }
+h1#principal {
+  text-align: right;
+}
