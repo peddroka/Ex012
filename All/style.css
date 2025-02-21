@@ -7,3 +7,7 @@ p {
 h1#principal {
   text-align: left;
 }
+.aprender {
+  text-align: center;
+  background-color: yellow;
+}
